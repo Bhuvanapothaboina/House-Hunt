@@ -44,7 +44,7 @@ It offers role-based dashboards for users (renters), owners, and admins to simpl
 
 ## 👥 Team Members
 
--Team Id LTVIP2025TMID20380
+-Team Id : LTVIP2025TMID20380
 
 -Team Leader : Pothaboina Bhuvana
 
