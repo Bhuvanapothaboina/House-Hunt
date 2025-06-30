@@ -1,62 +1,70 @@
-# House-Hunt -Rental Home partner
+# Getting Started with Create React App
 
- 🏠 HouseHunt - A House Rental Web Application
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-> A simple MERN stack-based web app to rent and list houses easily.
+## Available Scripts
 
----
+In the project directory, you can run:
 
-## 📌 Description
+### `npm start`
 
-HouseHunt is a rental platform that connects property owners and house seekers.  
-It offers role-based dashboards for users (renters), owners, and admins to simplify the rental process.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
----
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## 🚀 Key Features
+### `npm test`
 
-- 👤 User registration and login
-- 🏡 Property listing by owners with image upload
-- 🔍 Property search and filter options
-- ✅ Admin approval system for new listings
-- 📦 Booking history for users
-- 🔐 Role-based access for user, owner, and admin
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
----
+### `npm run build`
 
-## ⚙️ How It Works
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-1. *User (Renter):* Registers → Logs in → Searches houses → Books a property.
-2. *Owner:* Registers → Adds property with details/images → Waits for admin approval.
-3. *Admin:* Approves or rejects property listings → Manages all users and owners.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
----
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## 💻 Tech Stack
+### `npm run eject`
 
-- *Frontend:* React.js
-- *Backend:* Node.js, Express.js
-- *Database:* MongoDB
-- *Authentication:* JWT
-- *Image Handling:* Multer
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
----
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## 👥 Team Members
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
--Team Id : LTVIP2025TMID20380
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
--Team Leader : Pothaboina Bhuvana
+## Learn More
 
--Team member : Pirati Harsha Sri
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
--Team member : Pichuka Varshitha
+To learn React, check out the [React documentation](https://reactjs.org/).
 
--Team member : Peteti Chandana Priya Sai Durga
- 
+### Code Splitting
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
----
+### Analyzing the Bundle Size
 
-## Project Demo link
--https://drive.google.com/file/d/1uyKrGvL1whEhMzpobLie-ct5F8LD08wE/view?usp=drivesdk
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
